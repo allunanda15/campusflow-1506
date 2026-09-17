@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow",
+  "description": "Your College Life. Simplified. Modern student UI/UX web application for Anand B (MCA 3rd Sem AI/ML, SVYASA University) presented for CIA in Agile Methodologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
